@@ -167,7 +167,7 @@ const workExperiences = {
     {
       role: "Python Instructor",
       company: "Kuwait Codes - CODED",
-      companylogo: require("./assets/images/KuwaitCodes.svg"),
+      companylogo: require("./assets/images/KuwaitCodes.jpg"),
       date: "JUL 2023 - AUG 2023",
       desc: "Taught Python to highschool students in the summer cohorts at Kuwait Codes."
     },
